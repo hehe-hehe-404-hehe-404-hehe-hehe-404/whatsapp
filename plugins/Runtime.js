@@ -15,7 +15,7 @@ function kyun(seconds){
 					runtime = process.uptime()
 					teks = `${kyun(runtime)}`
 					var itsme = `0@s.whatsapp.net`
-					var split = `Rell uwu >//<`
+					var split = `umm keng thanne >//<`
 					const rtimebro = {
 					contextInfo: {
 					participant: itsme,
