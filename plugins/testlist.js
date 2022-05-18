@@ -19,8 +19,8 @@ const anu = {
 						"mimetype": "image/jpeg",
 						"jpegThumbnail": global.thumb
 					},
-					"title": "ＵｗＵ",
-					"description": "Rlxfly",
+					"title": "OK DA NEE KENG",
+					"description": "HEHE",
 					"currencyCode": "USD",
 					"priceAmount1000": "999999999999",
 					"retailerId": ">//<",
@@ -32,8 +32,8 @@ const anu = {
 }
   itsu.relayWAMessage(itsu.prepareMessageFromContent(m.chat, {
                     "listMessage":  {
-                        "title": "Ｍｅｎｕ ＴｅｓｔＢｏｔ",
-                        "description": " \n_©Rell 2021_ ",
+                        "title": "N o T a T e S t",
+                        "description": " \n_©hehe1_ ",
                         "buttonText": `Menu`,
                         "listType": "SINGLE_SELECT",
                         "sections": [
@@ -50,7 +50,7 @@ const anu = {
 "description": ``, 
                                        "rowId": `${usedPrefix}owner`
                                     }, {
-                                       "title": `『⚙️』- SC `,
+                                       "title": `kopp💥🐦 `,
 "description": ``, 
                                         "rowId": `${usedPrefix}sc`
                                     }, {
