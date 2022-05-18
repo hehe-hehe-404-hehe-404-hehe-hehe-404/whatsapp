@@ -22,7 +22,7 @@ Simple WhatsApp Bot
 - [x] Custom Quality YouTube video <details><summary>Screenshot</summary><img src="https://telegra.ph/file/9138a798168e5186278c1.jpg"></details>
 ------------------
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rlxfly/bot-tzy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alpha-404-ofc/whatsapp)
  
 
 # Group for user
